@@ -60,7 +60,7 @@ The input sequence must be non-decreasing.
 ```
 #### выходные данные
 ```
-An error has occurred while reading the input sequence
+An error has occurred while reading the input sequence.
 ```
 
 ### 0.0.3
@@ -97,7 +97,7 @@ The input sequence must be non-decreasing.
 ```
 #### выходные данные
 ```
-An error has occurred while reading the input sequence
+An error has occurred while reading the input sequence.
 ```
 ### 0.0.4
 Реализовать программу нахождения обратной матрицы размерами **3*****3**, используя метод Гаусса.
